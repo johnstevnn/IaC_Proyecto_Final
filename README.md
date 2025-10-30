@@ -8,7 +8,7 @@
 ### Comandos para Ejecurtar Terraform
 ##### Clonar Repositorio:  
 ``` 
-git clone
+git clone https://github.com/johnstevnn/IaC_Proyecto_Final.git
 ```
 ##### Inicializar Terraform: 
 ``` 
